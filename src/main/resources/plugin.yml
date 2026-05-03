@@ -1,0 +1,6 @@
+name: PWCore
+version: '${version}'
+
+main: me.jordanfails.core.PWCore
+api-version: '1.18'
+load: POSTWORLD
